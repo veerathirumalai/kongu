@@ -5,7 +5,7 @@ function App() {
     <div>
       <h1>hell</h1>
 
-      <h2>Hello chennai</h2>
+      <h2>Hello chenn</h2>
       <a href="https://www.google.com/">google</a>
     </div>
   );
