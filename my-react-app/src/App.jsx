@@ -1,12 +1,10 @@
 import "./App.css";
+import DemoCssComponent from "./demo-css/demo-css-component";
 
 function App() {
   return (
     <div>
-      <h1>hell</h1>
-
-      <h2>Hello madurai</h2>
-      <a href="https://www.google.com/">google</a>
+      <DemoCssComponent />
     </div>
   );
 }
